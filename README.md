@@ -1,7 +1,9 @@
 # Hi there, I'm Matvey👋
-I mostly code in C#:
+My language stast:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlertedCoffee&layout=compact&hide=c,c%+%+,cmake)
+
+From this stat hided c, c++ and cmake becuase one of my projects have OpenCV build in repo.
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
